@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <graph id="G">
+        <node id="n0" x="-350" y="-960" name="1" radius="20" fontSize="18" background="#ffffff" color="#000000" border="#000000"/>
+        <node id="n1" x="-470" y="-780" name="2" radius="20" fontSize="18" background="#ffffff" color="#000000" border="#000000"/>
+        <node id="n2" x="-500" y="-1050" name="3" radius="20" fontSize="18" background="#ffffff" color="#000000" border="#000000"/>
+        <node id="n3" x="-550" y="-890" name="4" radius="20" fontSize="18" background="#ffffff" color="#000000" border="#000000"/>
+        <node id="n4" x="-390" y="-1120" name="5" radius="20" fontSize="18" background="#ffffff" color="#000000" border="#000000"/>
+        <node id="n5" x="-300" y="-780" name="6" radius="20" fontSize="18" background="#ffffff" color="#000000" border="#000000"/>
+        <node id="n6" x="-130" y="-960" name="7" radius="20" fontSize="18" background="#ffffff" color="#000000" border="#000000"/>
+        <node id="n7" x="-210" y="-860" name="8" radius="20" fontSize="18" background="#ffffff" color="#000000" border="#000000"/>
+        <node id="n8" x="-260" y="-1090" name="9" radius="20" fontSize="18" background="#ffffff" color="#000000" border="#000000"/>
+        <node id="n9" x="390" y="-350" name="1" radius="20" fontSize="18" background="#ffffff" color="#000000" border="#000000"/>
+        <node id="n10" x="270" y="-170" name="2" radius="20" fontSize="18" background="#ffffff" color="#000000" border="#000000"/>
+        <node id="n11" x="240" y="-440" name="3" radius="20" fontSize="18" background="#ffffff" color="#000000" border="#000000"/>
+        <node id="n12" x="190" y="-280" name="4" radius="20" fontSize="18" background="#ffffff" color="#000000" border="#000000"/>
+        <node id="n13" x="350" y="-510" name="5" radius="20" fontSize="18" background="#ffffff" color="#000000" border="#000000"/>
+        <node id="n14" x="440" y="-170" name="6" radius="20" fontSize="18" background="#ffffff" color="#000000" border="#000000"/>
+        <node id="n15" x="610" y="-350" name="7" radius="20" fontSize="18" background="#ffffff" color="#000000" border="#000000"/>
+        <node id="n16" x="530" y="-250" name="8" radius="20" fontSize="18" background="#ffffff" color="#000000" border="#000000"/>
+        <node id="n17" x="480" y="-480" name="9" radius="20" fontSize="18" background="#ffffff" color="#000000" border="#000000"/>
+        <node id="n18" x="1130" y="210" name="1" radius="20" fontSize="18" background="#ffffff" color="#000000" border="#000000"/>
+        <node id="n19" x="1010" y="390" name="2" radius="20" fontSize="18" background="#ffffff" color="#000000" border="#000000"/>
+        <node id="n20" x="980" y="120" name="3" radius="20" fontSize="18" background="#ffffff" color="#000000" border="#000000"/>
+        <node id="n21" x="930" y="280" name="4" radius="20" fontSize="18" background="#ffffff" color="#000000" border="#000000"/>
+        <node id="n22" x="1090" y="50" name="5" radius="20" fontSize="18" background="#ffffff" color="#000000" border="#000000"/>
+        <node id="n23" x="1180" y="390" name="6" radius="20" fontSize="18" background="#ffffff" color="#000000" border="#000000"/>
+        <node id="n24" x="1350" y="210" name="7" radius="20" fontSize="18" background="#ffffff" color="#000000" border="#000000"/>
+        <node id="n25" x="1270" y="310" name="8" radius="20" fontSize="18" background="#ffffff" color="#000000" border="#000000"/>
+        <node id="n26" x="1220" y="80" name="9" radius="20" fontSize="18" background="#ffffff" color="#000000" border="#000000"/>
+        <edge id="e0" source="n0" target="n6" weight="" isDirected="false" controlStep="0" fontSize="18" lineWidth="2" background="#000000" color="#000000" />
+        <edge id="e1" source="n0" target="n7" weight="" isDirected="false" controlStep="0" fontSize="18" lineWidth="2" background="#000000" color="#000000" />
+        <edge id="e2" source="n6" target="n7" weight="" isDirected="false" controlStep="0" fontSize="18" lineWidth="2" background="#000000" color="#000000" />
+        <edge id="e3" source="n0" target="n3" weight="" isDirected="false" controlStep="0" fontSize="18" lineWidth="2" background="#000000" color="#000000" />
+        <edge id="e4" source="n5" target="n0" weight="" isDirected="false" controlStep="0" fontSize="18" lineWidth="2" background="#000000" color="#000000" />
+        <text id="t0" x="-450" y="-1140" width="60" height="25" fontSize="14" background="#ffffff" color="#000000" border="#000000" value="Laertes" />
+        <text id="t1" x="-130" y="-800" width="180" height="25" fontSize="14" background="#ffffff" color="#000000" border="#000000" value="King Hamlet, The Ghost" />
+        <text id="t2" x="-570" y="-1060" width="60" height="25" fontSize="14" background="#ffffff" color="#000000" border="#000000" value="Ophelia" />
+        <text id="t3" x="-290" y="-980" width="60" height="25" fontSize="14" background="#ffffff" color="#000000" border="#000000" value="Hamlet" />
+        <text id="t4" x="-580" y="-930" width="80" height="25" fontSize="14" background="#ffffff" color="#000000" border="#000000" value="Claudius" />
+        <text id="t5" x="-290" y="-730" width="80" height="25" fontSize="14" background="#ffffff" color="#000000" border="#000000" value="Gertrude" />
+        <text id="t6" x="-490" y="-730" width="80" height="25" fontSize="14" background="#ffffff" color="#000000" border="#000000" value="Polonius" />
+        <text id="t7" x="-70" y="-980" width="60" height="25" fontSize="14" background="#ffffff" color="#000000" border="#000000" value="Horatio" />
+        <text id="t8" x="-190" y="-1140" width="220" height="25" fontSize="14" background="#ffffff" color="#000000" border="#000000" value="Rosencrantz and Guildenstern" />
+        <text id="t9" x="290" y="-530" width="60" height="25" fontSize="14" background="#ffffff" color="#000000" border="#000000" value="Laertes" />
+        <text id="t10" x="610" y="-190" width="180" height="25" fontSize="14" background="#ffffff" color="#000000" border="#000000" value="King Hamlet, The Ghost" />
+        <text id="t11" x="170" y="-450" width="60" height="25" fontSize="14" background="#ffffff" color="#000000" border="#000000" value="Ophelia" />
+        <text id="t12" x="450" y="-370" width="60" height="25" fontSize="14" background="#ffffff" color="#000000" border="#000000" value="Hamlet" />
+        <text id="t13" x="160" y="-320" width="80" height="25" fontSize="14" background="#ffffff" color="#000000" border="#000000" value="Claudius" />
+        <text id="t14" x="450" y="-120" width="80" height="25" fontSize="14" background="#ffffff" color="#000000" border="#000000" value="Gertrude" />
+        <text id="t15" x="250" y="-120" width="80" height="25" fontSize="14" background="#ffffff" color="#000000" border="#000000" value="Polonius" />
+        <text id="t16" x="670" y="-370" width="60" height="25" fontSize="14" background="#ffffff" color="#000000" border="#000000" value="Horatio" />
+        <text id="t17" x="550" y="-530" width="220" height="25" fontSize="14" background="#ffffff" color="#000000" border="#000000" value="Rosencrantz and Guildenstern" />
+        <text id="t18" x="1030" y="30" width="60" height="25" fontSize="14" background="#ffffff" color="#000000" border="#000000" value="Laertes" />
+        <text id="t19" x="1350" y="370" width="180" height="25" fontSize="14" background="#ffffff" color="#000000" border="#000000" value="King Hamlet, The Ghost" />
+        <text id="t20" x="910" y="110" width="60" height="25" fontSize="14" background="#ffffff" color="#000000" border="#000000" value="Ophelia" />
+        <text id="t21" x="1190" y="190" width="60" height="25" fontSize="14" background="#ffffff" color="#000000" border="#000000" value="Hamlet" />
+        <text id="t22" x="900" y="240" width="80" height="25" fontSize="14" background="#ffffff" color="#000000" border="#000000" value="Claudius" />
+        <text id="t23" x="1190" y="440" width="80" height="25" fontSize="14" background="#ffffff" color="#000000" border="#000000" value="Gertrude" />
+        <text id="t24" x="990" y="440" width="80" height="25" fontSize="14" background="#ffffff" color="#000000" border="#000000" value="Polonius" />
+        <text id="t25" x="1410" y="190" width="60" height="25" fontSize="14" background="#ffffff" color="#000000" border="#000000" value="Horatio" />
+        <text id="t26" x="1290" y="30" width="220" height="25" fontSize="14" background="#ffffff" color="#000000" border="#000000" value="Rosencrantz and Guildenstern" />
+    </graph>
+</graphml>
